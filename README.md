@@ -1,5 +1,6 @@
 [![CircleCI](https://circleci.com/gh/GovWizely/lambda-ita-office-locations/tree/master.svg?style=svg)](https://circleci.com/gh/GovWizely/lambda-ita-office-locations/tree/master)
 [![Maintainability](https://api.codeclimate.com/v1/badges/62f58865b96016ddca69/maintainability)](https://codeclimate.com/github/GovWizely/lambda-ita-office-locations/maintainability)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=GovWizely/lambda-ita-office-locations)](https://dependabot.com)
 
 # ITA Office Locations Lambda
 
